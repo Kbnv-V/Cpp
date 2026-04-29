@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\user\source\repos\learning_simplecode\MyString\MyString\main.cpp(14,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\learning_simplecode\MyString\MyString\main.cpp(27,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\learning_simplecode\MyString\MyString\main.cpp(50,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\learning_simplecode\MyString\MyString\main.cpp(68,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\learning_simplecode\MyString\MyString\main.cpp(69,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  MyString.vcxproj -> C:\Users\user\source\repos\learning_simplecode\MyString\x64\Debug\MyString.exe
