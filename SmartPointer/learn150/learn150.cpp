@@ -1,10 +1,6 @@
 ﻿#include <iostream>
 using namespace std;
 
-//умные указатели
-//для автоматической очистки указателя надо создавать класс, который это будет делать
-//это и есть умный указатель
-
 template<typename T>
 class SmartPointer
 {
