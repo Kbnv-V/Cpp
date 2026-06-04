@@ -28,7 +28,7 @@ int main()
 
     cout << "------------------" << endl;
 
-    vector<int>::iterator itErase = myVector1.begin(); //итератор для удаления значения по индексу
+    vector<int>::iterator itErase = myVector1.begin(); //итератор для удаления значения
     //advance(itErase, 2);
     //myVector1.erase(itErase); //метод для удаления знаечния из вектора через итератор.
 
