@@ -24,7 +24,6 @@ public:
     double Scoure;
 };
 
-//это предикат
 bool func(int a)
 {
     return a > 0;
