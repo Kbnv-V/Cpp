@@ -1,0 +1,34 @@
+﻿  GetDisk.cpp
+  GetLog.cpp
+  Menu.cpp
+  pid_command.cpp
+C:\Users\user\source\repos\server_monitor\server_monitor\GetDisk.h(4,7): error C2011: GetDisk: переопределение типа "class"
+  (компиляция исходного файла "Menu.cpp")
+      C:\Users\user\source\repos\server_monitor\server_monitor\GetDisk.h(4,7):
+       см. объявление "GetDisk"
+  
+C:\Users\user\source\repos\server_monitor\server_monitor\Menu.cpp(49,8): error C2027: использование неопределенного типа "GetDisk"
+      C:\Users\user\source\repos\server_monitor\server_monitor\GetDisk.h(4,7):
+       см. объявление "GetDisk"
+  
+C:\Users\user\source\repos\server_monitor\server_monitor\Menu.cpp(58,5): error C2027: использование неопределенного типа "GetDisk"
+      C:\Users\user\source\repos\server_monitor\server_monitor\GetDisk.h(4,7):
+       см. объявление "GetDisk"
+  
+C:\Users\user\source\repos\server_monitor\server_monitor\Menu.cpp(67,9): error C2027: использование неопределенного типа "GetDisk"
+      C:\Users\user\source\repos\server_monitor\server_monitor\GetDisk.h(4,7):
+       см. объявление "GetDisk"
+  
+C:\Users\user\source\repos\server_monitor\server_monitor\Menu.cpp(76,5): error C2027: использование неопределенного типа "GetDisk"
+      C:\Users\user\source\repos\server_monitor\server_monitor\GetDisk.h(4,7):
+       см. объявление "GetDisk"
+  
+C:\Users\user\source\repos\server_monitor\server_monitor\pid_command.cpp(7,9): error C1083: Не удается открыть файл включение: unistd.h: No such file or directory,
+  server_daemon.cpp
+C:\Users\user\source\repos\server_monitor\server_monitor\GetDisk.h(4,7): error C2011: GetDisk: переопределение типа "class"
+  (компиляция исходного файла "server_daemon.cpp")
+      C:\Users\user\source\repos\server_monitor\server_monitor\GetDisk.h(4,7):
+       см. объявление "GetDisk"
+  
+C:\Users\user\source\repos\server_monitor\server_monitor\server_daemon.cpp(9,9): error C1083: Не удается открыть файл включение: unistd.h: No such file or directory,
+  Создание кода...
